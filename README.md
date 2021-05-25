@@ -1,4 +1,4 @@
-# CI/CD Deep Dive with JFrog Pipelines
+# CI/CD Deep Dive with JFrog Pipelines 
 
 ## Goal of this Lab
 
